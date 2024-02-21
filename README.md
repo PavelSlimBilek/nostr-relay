@@ -1,2 +1,2 @@
-# nostr-relay
-Developing NOSTR relay prototype
+NOSTR relay written in JAVA
+- websocket technology
